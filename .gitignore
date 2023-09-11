@@ -1,0 +1,27 @@
+# Binaries 
+*.exe
+*.dll
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# Log files
+*.log
+
+# IDE config
+.idea/
+
+# Environment variables
+.env
+
+# go.sum 
+go.sum
+
+# build cache directory
+__debug_bin/
